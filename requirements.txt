@@ -1,0 +1,7 @@
+numpy
+pandas
+pyarrow
+opencv-python
+plotly
+ipykernel
+nbformat
